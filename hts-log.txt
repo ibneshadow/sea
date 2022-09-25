@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 25 Sep 2022 16:14:07 at https://sosyalmedyahizmetlerim.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Pxs2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://sosyalmedyahizmetlerim.com/ -O1 "C:\Users\kemal\Desktop\ssss" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:27:06	Warning: 	Retry after error -4 (Connect Error) at link https://smm360.com/img/files/8f53a76199c951d157cc1a3454df0f19.png (from https://sosyalmedyahizmetlerim.com/css/panel/yeti/style.css)
+16:27:06	Warning: 	Retry after error -4 (Connect Error) at link https://smm360.com/img/files/1044e42675b92c8be96657d2cdd280b5.png (from https://sosyalmedyahizmetlerim.com/css/panel/yeti/style.css)
+16:27:06	Error: 	"Not Found" (404) at link https://sosyalmedyahizmetlerim.com/example.txt (from https://sosyalmedyahizmetlerim.com/api)
+16:27:28	Warning: 	Retry after error -4 (Connect Error) at link https://smm360.com/img/files/8f53a76199c951d157cc1a3454df0f19.png (from https://sosyalmedyahizmetlerim.com/css/panel/yeti/style.css)
+16:27:28	Warning: 	Retry after error -4 (Connect Error) at link https://smm360.com/img/files/1044e42675b92c8be96657d2cdd280b5.png (from https://sosyalmedyahizmetlerim.com/css/panel/yeti/style.css)
+16:27:49	Error: 	"Connect Error" (-4) after 2 retries at link https://smm360.com/img/files/8f53a76199c951d157cc1a3454df0f19.png (from https://sosyalmedyahizmetlerim.com/css/panel/yeti/style.css)
+16:27:49	Error: 	"Connect Error" (-4) after 2 retries at link https://smm360.com/img/files/1044e42675b92c8be96657d2cdd280b5.png (from https://sosyalmedyahizmetlerim.com/css/panel/yeti/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 minutes 42 seconds : 45 links scanned, 37 files written (4964737 bytes overall) [3101887 bytes received at 3773 bytes/sec], 4598689 bytes transferred using HTTP compression in 1360 files, ratio 15%, 76.2 requests per connection
+(3 errors, 4 warnings, 0 messages)
